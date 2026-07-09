@@ -1,0 +1,6 @@
+Machine_Name,Normal_Power_W,Current_Power_W,Status,Energy_Saving_Tip
+CNC Machine,420,425,Normal,Operating efficiently
+Hydraulic Press,650,890,High Consumption,Inspect motor and bearings
+Conveyor Motor,380,980,Critical,Immediate inspection required
+Air Compressor,510,520,Normal,No action required
+Welding Robot,620,640,Normal,Monitor periodically

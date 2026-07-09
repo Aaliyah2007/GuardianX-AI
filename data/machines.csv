@@ -1,0 +1,6 @@
+Machine_ID,Machine_Name,Health_Score,Status,Temperature_C,Vibration,Power_W,Operating_Hours,Failure_Probability,Maintenance_Due
+M1,CNC Machine,96,Healthy,42,Normal,420,1245,4,25 Days
+M2,Hydraulic Press,64,Warning,58,High,890,2180,78,5 Days
+M3,Conveyor Motor,31,Critical,71,Very High,980,3050,94,Immediate
+M4,Air Compressor,88,Healthy,46,Normal,510,980,12,18 Days
+M5,Welding Robot,81,Healthy,48,Normal,620,1540,16,12 Days

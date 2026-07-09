@@ -1,0 +1,6 @@
+Time,Category,Alert,Severity,Status
+09:15,Machine,High vibration detected in Hydraulic Press,Warning,Open
+09:40,Safety,Worker detected without helmet,Critical,Open
+10:05,Energy,Conveyor Motor consuming abnormal power,Critical,Open
+10:30,Maintenance,Bearing inspection due tomorrow,Medium,Pending
+11:00,System,Daily health report generated,Info,Completed

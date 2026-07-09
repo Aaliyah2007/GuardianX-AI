@@ -1,0 +1,6 @@
+Machine_Name,Maintenance_Task,Priority,Due_Date,Assigned_To,Status
+Hydraulic Press,Bearing Inspection,High,Tomorrow,Maintenance Team,Pending
+Conveyor Motor,Motor Service,Critical,Today,Maintenance Team,Pending
+CNC Machine,Lubrication,Low,25 Jul,Maintenance Team,Scheduled
+Air Compressor,Filter Cleaning,Medium,18 Jul,Maintenance Team,Scheduled
+Welding Robot,Sensor Calibration,Medium,12 Jul,Maintenance Team,Scheduled
